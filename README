@@ -1,0 +1,29 @@
+# Urban Asset Library
+
+Welcome to the Urban Asset Library! This repository is a comprehensive collection of urban assets designed for creating urban digital twins for simulation research. This asset library will also be mirrored on [Printables.com](https://www.printables.com/@HenryLevesque/collections/1560825).
+
+## Overview
+
+The Urban Asset Library provides a variety of assets that can be used to build detailed and accurate digital representations of urban environments. These assets are essential for researchers and developers working on urban simulations, smart city projects, and other related fields.
+
+## Usage
+
+To use the assets in this library, simply clone the repository and integrate the assets into your simulation projects. Detailed instructions and examples are provided in the documentation.
+
+```bash
+git clone https://github.com/hleve/Urban_Asset_Library.git
+```
+
+## Contributing
+
+We welcome contributions from the community! If you have urban assets that you would like to share, please submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contact
+
+For any questions or inquiries, please contact us.
+
+Thank you for using the Urban Asset Library!
