@@ -8,7 +8,9 @@ The Urban Asset Library provides a variety of assets that can be used to build d
 
 ## Usage
 
-To use the assets in this library, simply clone the repository and integrate the assets into your simulation projects. Detailed instructions and examples are provided in the documentation.
+If you use the assets in this asset library, you must provide attribution. Details can be found in the [CITATION] (CITATION.cff) and [LICENSE](LICENSE) files
+
+To use the assets in this library, navigate to the appropriate folder and download the file. To download the entire library, close the library using git clone
 
 ```bash
 git clone https://github.com/hleve/Urban_Asset_Library.git
@@ -16,7 +18,7 @@ git clone https://github.com/hleve/Urban_Asset_Library.git
 
 ## Contributing
 
-We welcome contributions from the community! If you have urban assets that you would like to share, please submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+We welcome contributions from the community! If you have urban assets that you would like to share, please submit a pull request. For major changes, please open an issue first to discuss what you would like to change. For asset requests, please open an issue to request a specific asset.
 
 ## License
 
