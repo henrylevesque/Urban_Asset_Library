@@ -8,7 +8,7 @@ The Urban Asset Library provides a variety of assets that can be used to build d
 
 ## Usage
 
-If you use the assets in this asset library, you must provide attribution. Details can be found in the [CITATION] (CITATION.cff) and [LICENSE](LICENSE) files
+If you use the assets in this asset library, you must provide attribution. Details can be found in the [CITATION](CITATION) and [LICENSE](LICENSE) files
 
 To use the assets in this library, navigate to the appropriate folder and download the file. To download the entire library, close the library using git clone
 
