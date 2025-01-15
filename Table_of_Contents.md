@@ -72,6 +72,7 @@
         - Speed Cushions
         - Roundabouts
     - Parking Bumper
+    - Bike Racks
     - Bollards
         - Decorative Bollards
         - Modern Bollards
