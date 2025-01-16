@@ -3,28 +3,32 @@
 ## Included Assets
 
 ### [MISC](MISC/)
-- [Dumpster](MISC/Dumpster)
-  - 20 Yard Dumpster
-  - 30 Yard Dumpster
-- [Barriers](MISC/Barriers)
-  - Plastic Safety Fence
+- [Dumpster](MISC/Dumpster/)
+  - [20 Yard Dumpster](MISC/Dumpster/20%20Yard%20Dumpster/)
+  - [30 Yard Dumpster](MISC/Dumpster/30%20Yard%20Dumpster/)
+- [Barriers](MISC/Barriers/)
+  - [Plastic Safety Fence](MISC/Barriers/Plastic%20Safety%20Fence/)
+  - [Concrete Barrier](MISC/Barriers/Concrete%20Barrier/)
 
 ### [Street](Street/)
-- [Curb](Street/Curb)
-  - Combined Concrete Curb and Gutter
-  - Concrete Roll Curb and Gutter
-  - Concrete Curb and Gutter
-- [Road](Street/Road)
-  - Single Lane Road
-  - Double Lane Road
-- [Pole](Street/Pole)
-  - Utility Pole
-- [Sidewalk](Street/Sidewalk)
-  - Plain Sidewalk
-  - Textured Sidewalk
-  - Plain Textured Sidewalk
-- [Drainage](Street/Drainage)
-  - Storm Drain
+- [Curb](Street/Curb/)
+  - [Combined Concrete Curb and Gutter](Street/Curb/)
+  - [Concrete Roll Curb and Gutter](Street/Curb//Concrete%20Roll%20Curb%20and%20Gutter/)
+  - [Integral Concrete Curb and Gutter](Street/Curb/Integral%20Concrete%20Curb%20and%20Gutter/)
+- [Road](Street/Road/)
+  - [Single Lane Road](Street/Road/Single%20Lane%20Road/)
+  - [Double Lane Road](Street/Road/Double%20Lane%20Road/)
+- [Pole](Street/Pole/)
+  - [Utility Pole](Street/Pole/Utility%20Pole/)
+- [Sidewalk](Street/Sidewalk/)
+  - [Simple Sidewalk](Street/Sidewalk/Simple%20Sidewalk/)
+  - [Textured Sidewalk](Street/Sidewalk/Textured%20Sidewalk/)
+  - [Simple Textured Sidewalk](Street/Sidewalk/Simple%20Textured%20Sidewalk/)
+- [Drainage](Street/Drainage/)
+  - [Storm Drain](Street/Storm%20Drain/)
+- [Bollard](Street/Bollard/)
+  - [Decorative Bollard](Street/Bollard/Decorative%20Bollard/)
+  - [Plain Bollard](Street/Bollard/Plain%20Bollard/)
 
 ### [Signage](Signage/)
 - [Sign Post](Signage/Sign%20Post/)
@@ -74,8 +78,6 @@
 - Parking Bumper
 - Bike Racks
 - Bollards
-    - Decorative Bollards
-    - Modern Bollards
     - Bike Lane Bollards
 - Fire Hydrant
 - Street Lights
