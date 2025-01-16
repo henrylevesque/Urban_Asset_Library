@@ -56,6 +56,7 @@
 - Street
     - Pedestrian Crossings 
         - Zebra Crossings
+        - Tactile Pavers
     - Lane Markings
         - Lane Dividing Markings
         - Bike Lane Markings
