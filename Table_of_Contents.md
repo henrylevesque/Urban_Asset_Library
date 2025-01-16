@@ -64,6 +64,8 @@
     - Sidewalks
         - Brick Sidewalks
         - Permiable Pavers
+        - Curb Ramp
+        - Curb Ramp with Tactile Warning Strip (truncated domes or detectable dome warning tiles)
     - Manholes
         - Manhole Covers
     - Drainage
