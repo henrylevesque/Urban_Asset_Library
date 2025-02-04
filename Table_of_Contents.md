@@ -29,6 +29,8 @@
 - [Bollard](Street/Bollard/)
   - [Decorative Bollard](Street/Bollard/Decorative%20Bollard/)
   - [Plain Bollard](Street/Bollard/Plain%20Bollard/)
+- [Lane Markings](Street/Lane%20Markings/)
+  - [Bike Lane](Bike%20Lane)
 
 ### [Signage](Signage/)
 - [Sign Post](Signage/Sign%20Post/)
@@ -60,7 +62,6 @@
     - Tactile Pavers
 - Lane Markings
     - Lane Dividing Markings
-    - Bike Lane Markings
     - Bus Lane Markings
 - Sidewalks
     - Brick Sidewalks
@@ -90,7 +91,6 @@
 ### MISC
 - Barriers
     - Fencing
-    - Concrete Barrier
 - Planters
     - Sidewalk Planters
     - Median Planters
