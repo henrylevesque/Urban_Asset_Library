@@ -28,4 +28,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or inquiries, please contact us.
 
-Thank you for using the Urban Asset Library!
+Thank you for using the Open Source Urban Asset Library!
