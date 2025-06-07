@@ -1,6 +1,6 @@
 # Urban Asset Library
 
-Welcome to the Urban Asset Library! This repository is a comprehensive collection of urban assets designed for creating urban digital twins for simulation research. This asset library will also be mirrored on [Printables.com](https://www.printables.com/@HenryLevesque/collections/1560825).
+Welcome to the Open-Source Urban Asset Library! To imagine future urban environments, we have to first understand current urban environments, which means understanding what is in current envoronments. This repository is intended to be a comprehensive collection of urban assets designed for creating urban digital twins for simulation research. This asset library will also be mirrored on [Printables.com](https://www.printables.com/@HenryLevesque/collections/1560825). These models can be 3D printed at 1:48 scale to help vilualize or exemplify urban environments.
 
 ## Overview
 
