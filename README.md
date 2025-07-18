@@ -14,6 +14,7 @@ Welcome to the **Open-Source Urban Asset Library**! To imagine future urban envi
 - [Features](#features)
 - [Quick Start](#quick-start)
 - [Asset Categories](#asset-categories)
+- [Asset Gallery](#asset-gallery)
 - [File Formats](#file-formats)
 - [Usage Examples](#usage-examples)
 - [Installation](#installation)
@@ -56,6 +57,31 @@ cd Urban_Asset_Library
 | **[Unsorted](Unsorted/)** | New or uncategorized assets | Furniture, planters, decorative elements |
 
 📖 **[View Complete Asset Catalog](Table_of_Contents.md)**
+
+## 🖼️ Asset Gallery
+
+### Street Infrastructure
+<div align="center">
+<img src="Street/Bollard/Decorative Bollard/scale bollard.png" width="200" alt="Decorative Bollard">
+<img src="Unsorted/scale decorative bollard v2.png" width="200" alt="Decorative Bollard v2">
+<img src="Unsorted/scale decorative lamp post v1.png" width="200" alt="Decorative Lamp Post">
+</div>
+
+### Signage
+<div align="center">
+<img src="Signage/stopsign.png" width="200" alt="Stop Sign">
+<img src="Signage/yield sign.png" width="200" alt="Yield Sign">
+<img src="Signage/yield sign 1.png" width="200" alt="Yield Sign Alt">
+</div>
+
+### Urban Furniture
+<div align="center">
+<img src="Unsorted/scale concrete chair.png" width="200" alt="Concrete Chair">
+<img src="Unsorted/scale concrete table.png" width="200" alt="Concrete Table">
+<img src="Unsorted/scale concrete rectangular planter.png" width="200" alt="Rectangular Planter">
+</div>
+
+*Click on any category above to explore more assets*
 
 ## 📁 File Formats
 
@@ -104,6 +130,9 @@ source urban_assets_env/bin/activate  # On Windows: urban_assets_env\Scripts\act
 
 # Install dependencies for asset catalog generation
 pip install fpdf pillow pandas openpyxl
+
+# Generate asset documentation (automated)
+python scripts/generate_asset_docs.py
 ```
 
 ## 🖨️ 3D Printing Guide
@@ -132,7 +161,7 @@ We welcome contributions from the community! Here's how you can help:
 1. **Fork** the repository
 2. **Create** a new branch for your asset
 3. **Add** your asset files (STL, STP, PNG)
-4. **Update** documentation
+4. **Update** documentation (run `python scripts/generate_asset_docs.py`)
 5. **Submit** a pull request
 
 ### Asset Guidelines
@@ -141,6 +170,11 @@ We welcome contributions from the community! Here's how you can help:
 - Add a reference image (PNG)
 - Follow the existing folder structure
 - Ensure proper scale (1:48 recommended)
+
+### Development
+- **Scripts**: Automation scripts are in [`scripts/`](scripts/)
+- **Documentation**: Development docs are in [`docs/`](docs/)
+- **Asset Documentation**: Auto-generated using `scripts/generate_asset_docs.py`
 
 ### Asset Requests
 Have an idea for a new asset? [Open an issue](https://github.com/hleve/Urban_Asset_Library/issues) with the "asset request" label.

@@ -1,2 +1,40 @@
 Visual_Dictionary.md
 working_files/
+
+# Backup and temporary files
+*_backup*
+*_BACKUP*
+README_backup.md
+README_CLEAN.md
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# Asset dictionary output
+asset_dictionaries/
+
+# Python cache and virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+urban_assets_env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+desktop.ini
+*.lnk
