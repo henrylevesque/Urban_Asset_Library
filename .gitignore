@@ -38,3 +38,6 @@ urban_assets_env/
 .DS_Store
 desktop.ini
 *.lnk
+
+# Large files moved by pre-commit hook
+large_files/
