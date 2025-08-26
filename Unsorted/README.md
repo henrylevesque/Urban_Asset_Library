@@ -113,57 +113,83 @@ Urban asset for unsorted applications in city planning and simulation.
 - Smart city research
 
 ## Download
+Many files have been moved from this folder into more specific categories (Parklet, Bollard, Sidewalk, etc.).
 
-- [Download STL file](bike bollard.stl)
-- [Download STL file](scale concrete chair v1.stl)
-- [Download STL file](scale concrete chair v2.stl)
-- [Download STL file](scale concrete rectangular planter.stl)
-- [Download STL file](scale concrete small table.stl)
-- [Download STL file](scale concrete square planter.stl)
-- [Download STL file](scale concrete stool v1.stl)
-- [Download STL file](scale concrete stool v2.stl)
-- [Download STL file](scale concrete table.stl)
-- [Download STL file](scale decorative bike bollard v2.stl)
-- [Download STL file](scale decorative bollard v2.stl)
-- [Download STL file](scale decorative bollard v3.stl)
-- [Download STL file](scale decorative lamp post v1.stl)
-- [Download STL file](scale decorative lamp post v2.stl)
-- [Download STL file](scale decorative lamp post v3.stl)
-- [Download STL file](scale decorative lamp post v4.stl)
-- [Download STL file](scale ikea sundso chair.stl)
-- [Download STL file](scale ikea sundso table.stl)
-- [Download STL file](scale parklet.stl)
-- [Download STP file](bike bollard.stp)
-- [Download STP file](scale concrete chair v1.stp)
-- [Download STP file](scale concrete chair v2.stp)
-- [Download STP file](scale concrete rectangular planter.stp)
-- [Download STP file](scale concrete small table.stp)
-- [Download STP file](scale concrete square planter.stp)
-- [Download STP file](scale concrete stool v1.stp)
-- [Download STP file](scale concrete stool v2.stp)
-- [Download STP file](scale concrete table.stp)
-- [Download STP file](scale decorative bike bollard v2.stp)
-- [Download STP file](scale decorative bollard v2.stp)
-- [Download STP file](scale decorative bollard v3.stp)
-- [Download STP file](scale decorative lamp post v1.stp)
-- [Download STP file](scale decorative lamp post v2.stp)
-- [Download STP file](scale decorative lamp post v3.stp)
-- [Download STP file](scale decorative lamp post v4.stp)
-- [Download STP file](scale ikea sundso.stp)
-- [Download STP file](scale parklet.stp)
+Remaining files in `Unsorted/` (as of this update):
+
+- `scale bike corral.stl`, `scale bike corral.stp`
+- `scale concrete chair v1.stl`, `scale concrete chair v1.stp`
+- `scale concrete chair v2.stl`, `scale concrete chair v2.stp`
+- `scale concrete rectangular planter.stl`, `scale concrete rectangular planter.stp`
+- `scale concrete small table.stl`, `scale concrete small table.stp`
+- `scale concrete square planter.stl`, `scale concrete square planter.stp`
+- `scale concrete stool v1.stl`, `scale concrete stool v1.stp`
+- `scale concrete stool v2.stl`, `scale concrete stool v2.stp`
+- `scale concrete table.stl`, `scale concrete table.stp`
+- `scale decorative bollard v2.stl`, `scale decorative bollard v2.stp`, `scale decorative bollard v3.stl`, `scale decorative bollard v3.stp`
+- `scale decorative lamp post v1.stl`, `scale decorative lamp post v1.stp`, `scale decorative lamp post v2.stl`, `scale decorative lamp post v2.stp`, `scale decorative lamp post v3.stl`, `scale decorative lamp post v3.stp`, `scale decorative lamp post v4.stl`, `scale decorative lamp post v4.stp`
+- `scale ikea sundso chair.stl`, `scale ikea sundso table.stl`, `scale ikea sundso.stp`
+- `scale picnic table 1.stl`, `scale picnic table.stl`, `scale picnic table.stp`
+- `scale planter with seating 1.stl`, `scale planter with seating 1.stp`, `scale planter with seating 2.stl`, `scale planter with seating 2.stp`
+- textured and rubber speed hump STLs
+- various preview PNGs and backups
+
+If you'd like, I can move the remaining files into `Street/Furniture` or `MISC/Planters` — tell me your preference.
 
 ## Attribution
 
 When using this asset, please cite:
 ```
-Author: Henry Levesque
-Source: Urban Asset Library - Unsorted
-URL: https://github.com/hleve/Urban_Asset_Library
-```
+# Unsorted Assets
 
-## Related Assets
+This folder contains assets not yet categorized. During a recent organization pass many files were moved; the list below shows what remains here.
 
-- [All Urban Assets](../)
----
+## Files present
 
-*Part of the [Urban Asset Library](../../../) - Open source urban assets for simulation and 3D printing*
+- `bike bollard V2.png`
+- `bike bollard.png`
+- `bike bollard.stl`
+- `bike bollard.stp`
+- `bike corral.png`
+- `bollard with light 1.png`
+- `bollard with light.png`
+- `ikea sundso chair.png`
+- `ikea sundso table.png`
+- `planter with seating 1.png`
+- `planter with seating 2.png`
+- `README.md`
+- `rubber speed hump 1.png`
+- `rubber speed hump 2.png`
+- `rubber speed hump 3.png`
+- `rubber speed hump 4.png`
+- `scale bike corral.stl`
+- `scale bike corral.stp`
+- `scale bollard with light.stl`
+- `scale bollard with light.stp`
+- `scale bollard with light.stpbak`
+- `scale concrete chair v1.stl`
+- `scale concrete chair v1.stp`
+- `scale concrete chair v2.png`
+- `scale concrete chair v2.stl`
+- `scale concrete chair v2.stp`
+- `scale concrete chair.png`
+- `scale concrete rectangular planter.png`
+- `scale concrete rectangular planter.stl`
+- `scale concrete rectangular planter.stp`
+- `scale concrete small table v2.png`
+- `scale concrete small table.png`
+- `scale concrete small table.stl`
+- `scale concrete small table.stp`
+- `scale concrete square planter.png`
+- `scale concrete square planter.stl`
+- `scale concrete square planter.stp`
+- `scale concrete stool v1.stl`
+- `scale concrete stool v1.stp`
+- `scale concrete stool v2.stl`
+- `scale concrete stool v2.stp`
+- `scale concrete stool.png`
+- `scale concrete table.png`
+- `scale concrete table.stl`
+- `scale concrete table.stp`
+- `scale decorative bike bollard v2.stl`
+- `...`
