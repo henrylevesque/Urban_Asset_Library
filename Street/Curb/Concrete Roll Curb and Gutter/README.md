@@ -1,59 +1,11 @@
-# Concrete Roll Curb And Gutter
+﻿# Concrete Roll Curb and Gutter
 
-Concrete curbing for road edge definition and water management.
+![preview](concrete roll curb and gutter.png)
 
-## Preview
+## Files included
 
-![Concrete Roll Curb And Gutter](concrete roll curb and gutter.png)
+- $f
+- $f
+- $f
+- $f
 
-## Specifications
-
-- **Scale**: 1:48 (HO Scale)
-- **Material**: Designed for PLA/PETG 3D printing
-- **Print Time**: Varies by complexity
-- **Support Required**: Minimal (model optimized for printing)
-
-## Files Available
-
-| File | Format | Description |
-|------|---------|-------------|
-| `Concrete Roll Curb and Gutter.stl` | STL | 3D printable mesh file |
-| `Concrete Roll Curb and Gutter.stp` | STP | CAD file for editing |
-| `concrete roll curb and gutter.png` | PNG | Preview image |
-
-## Usage
-
-### 3D Printing
-- **Layer Height**: 0.2mm (0.15mm for fine details)
-- **Infill**: 15-20% (adjust based on use case)
-- **Print Speed**: 50-60 mm/s
-- **Supports**: Usually not required
-
-### Applications
-- Urban planning models
-- Architectural visualizations
-- City planning presentations
-- 3D printed scale models
-- Digital twin development
-- Smart city research
-
-## Download
-
-- [Download STL file](Concrete Roll Curb and Gutter.stl)
-- [Download STP file](Concrete Roll Curb and Gutter.stp)
-
-## Attribution
-
-When using this asset, please cite:
-```
-Author: Henry Levesque
-Source: Urban Asset Library - Concrete Roll Curb And Gutter
-URL: https://github.com/hleve/Urban_Asset_Library
-```
-
-## Related Assets
-
-- [All Urban Assets](../)
----
-
-*Part of the [Urban Asset Library](../../../) - Open source urban assets for simulation and 3D printing*

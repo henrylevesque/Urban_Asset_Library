@@ -1,16 +1,15 @@
-# Bike Bollard
+﻿# Bike Bollard
 
-![bike bollard V2.png](bike bollard V2.png)
-![bike bollard.png](bike bollard.png)
+![preview](bike bollard V2.png)
+
+![preview](bike bollard.png)
 
 ## Files included
 
-- `bike bollard.stl`
-- `bike bollard.stp`
-- `bike bollard.png`
-- `bike bollard V2.png`
-- `scale decorative bike bollard v2.stl`
-- `scale decorative bike bollard v2.stp`
-- `bike bollard.stp` — CAD source
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
 
-- `bike bollard.png` — preview image

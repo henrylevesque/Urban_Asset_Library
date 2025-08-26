@@ -1,22 +1,21 @@
-# Decorative Lamp Post
+﻿# Decorative Lamp Post
 
-Decorative street lamp posts and lighting fixtures.
+![preview](scale decorative lamp post v1.png)
+
+![preview](scale decorative lamp post v2.png)
 
 ## Files included
 
-Files present in this folder:
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
 
-- `scale decorative lamp post v1.png`
-- `scale decorative lamp post v1.stl`
-- `scale decorative lamp post v1.stp`
-- `scale decorative lamp post v2.png`
-- `scale decorative lamp post v2.stl`
-- `scale decorative lamp post v2.stp`
-- `scale decorative lamp post v3.png`
-- `scale decorative lamp post v3.stl`
-- `scale decorative lamp post v3.stp`
-- `scale decorative lamp post v4.png`
-- `scale decorative lamp post v4.stl`
-- `scale decorative lamp post v4.stp`
-
- 

@@ -1,8 +1,9 @@
-# Plain Bollard
+﻿# Plain Bollard
 
-![Bollard.png](Bollard.png)
+![preview](Bollard.png)
 
 ## Files included
 
-- `Bollard.stl`
-- `Bollard.png`
+- $f
+- $f
+

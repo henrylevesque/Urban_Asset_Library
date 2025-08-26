@@ -1,7 +1,6 @@
-# Bollard
-
-<!-- Preview images: included if present in this folder -->
+﻿# Bollard
 
 ## Files included
 
-- (See files in this folder)
+- (No files in this folder) 
+

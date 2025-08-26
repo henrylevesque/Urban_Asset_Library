@@ -1,19 +1,15 @@
-# Tactile Warning Surface
+﻿# Tactile Warning Surface
 
-Tactile warning surfaces and pavers for curb ramps and detectable warnings.
+![preview](tactile warning surface 1.png)
 
-## Preview
-
-(Place tactile surface preview images here)
-
- 
+![preview](tactile warning surface simplified.png)
 
 ## Files included
 
-Files moved here from `Unsorted/`:
+- $f
+- $f
+- $f
+- $f
+- $f
+- $f
 
-- `scale tactile warning surface.stl`
-- `scale tactile warning surface.stp`
-- `scale tactile warning surface simplified.stl`
-- `scale tactile warning surface simplified.stp`
-- preview images: `tactile warning surface*.png`
