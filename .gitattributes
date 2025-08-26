@@ -1,0 +1,17 @@
+# Auto-detect text files and normalize to LF in the repo
+* text=auto
+
+# Force markdown files to use LF to keep cross-platform diffs stable
+*.md text eol=lf
+
+# Binary files — do not normalize
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.stl binary
+*.stpbak binary
+*.stp binary
+*.zip binary
+
+# Scripts: keep native line endings (PowerShell on Windows)
+*.ps1 text eol=crlf

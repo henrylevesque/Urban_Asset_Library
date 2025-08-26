@@ -39,6 +39,8 @@
 - [Parklet](Street/Parklet/)
   - [Temporary Parklet with Tables](Street/Parklet/Temporary%20Parklet%20with%20Tables/)
   - [Metal Parklet](Street/Parklet/Metal%20Parklet/)
+- [Furniture](Street/Furniture/)
+  - [Planters](Street/Furniture/Planters/)
 
 - [Traffic Calming](Street/Traffic%20Calming/)
   - [Speed Humps and Ramps](Street/Traffic%20Calming/Speed%20Humps/)
