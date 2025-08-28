@@ -1,11 +1,12 @@
 Visual_Dictionary.md
 working_files/
 
-# Backup and temporary files
+# Backup, temporary, and working files
 *_backup*
 *_BACKUP*
 README_backup.md
 README_CLEAN.md
+FUTURE_WORK.md
 *.tmp
 *.temp
 *~
