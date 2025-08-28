@@ -7,4 +7,3 @@ See `Table_of_Contents.md` for a browsable index of assets.
 License and attribution are in `LICENSE` and `CITATION.cff` at the repository root.
 
 If you'd like an asset added, please open an issue.
-
