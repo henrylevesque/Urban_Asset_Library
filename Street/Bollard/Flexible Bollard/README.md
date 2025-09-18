@@ -2,5 +2,6 @@
 
 ## Files included
 
-- (No files in this folder)
+- flexible bollard.png
+- flexible bollard.stp
 
