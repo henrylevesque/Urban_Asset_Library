@@ -2,7 +2,7 @@
 
 Files and assets in the `Storm Drain` folder.
 
-![preview](storm drain 1.png)
+![preview](storm drain.png)
 
 
 ## Files included
@@ -11,7 +11,7 @@ Files and assets in the `Storm Drain` folder.
 - [scale storm drain grate.stp](scale storm drain grate.stp)
 - [scale storm drain.stl](scale storm drain.stl)
 - [scale storm drain.stp](scale storm drain.stp)
-- [storm drain 1.png](storm drain 1.png)
+- [storm drain 1.png](storm drain.png)
 - [storm drain.png](storm drain.png)
 
 ---

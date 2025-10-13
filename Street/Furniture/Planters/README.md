@@ -20,7 +20,7 @@ Files and assets in the `Planters` folder.
 - [scale planter with seating 1.stp](scale planter with seating 1.stp)
 - [scale planter with seating 2.stl](scale planter with seating 2.stl)
 - [scale planter with seating 2.stp](scale planter with seating 2.stp)
-- [scale-concrete-square-planter(1).stl](scale-concrete-square-planter(1).stl)
+- [scale-concrete-square-planter(1).stl](scale-concrete-square-planter(1).stl).stl)
 - [scale-concrete-square-planter.stl](scale-concrete-square-planter.stl)
 
 ---

@@ -2,13 +2,13 @@
 
 Files and assets in the `Bollard with Light` folder.
 
-![preview](bollard with light 1.png)
+![preview](C:/Users/leves/Nextcloud/GitHub/Urban_Asset_Library/Street/Bollard/Plain Bollard/Bollard.stl)
 
 
 ## Files included
 
-- [bollard with light 1.png](bollard with light 1.png)
-- [bollard with light.png](bollard with light.png)
+- [bollard with light 1.png](C:/Users/leves/Nextcloud/GitHub/Urban_Asset_Library/Street/Bollard/Plain Bollard/Bollard.stl)
+- [bollard with light.png](C:/Users/leves/Nextcloud/GitHub/Urban_Asset_Library/Street/Bollard/Plain Bollard/Bollard.stl)
 - [scale bollard with light.stl](scale bollard with light.stl)
 - [scale bollard with light.stp](scale bollard with light.stp)
 - [scale bollard with light.stpbak](scale bollard with light.stpbak)

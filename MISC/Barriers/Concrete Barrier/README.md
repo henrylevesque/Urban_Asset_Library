@@ -2,12 +2,12 @@
 
 Files and assets in the `Concrete Barrier` folder.
 
-![preview](Concrete Barrier.png)
+![preview](Concrete Barrier.stl)
 
 
 ## Files included
 
-- [Concrete Barrier.png](Concrete Barrier.png)
+- [Concrete Barrier.png](Concrete Barrier.stl)
 - [Concrete Barrier.stl](Concrete Barrier.stl)
 
 ---

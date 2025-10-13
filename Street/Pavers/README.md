@@ -16,7 +16,7 @@ Files and assets in the `Pavers` folder.
 - [scale trihex paver 2.png](scale trihex paver 2.png)
 - [scale trihex paver.png](scale trihex paver.png)
 - [trihex paver.stp](trihex paver.stp)
-- [trihex pavers.stp](trihex pavers.stp)
+- [trihex pavers.stp](trihex paver.stp)
 
 ---
 

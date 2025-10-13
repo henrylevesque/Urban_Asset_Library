@@ -2,12 +2,12 @@
 
 Files and assets in the `Flexible Bollard` folder.
 
-![preview](flexible bollard.png)
+![preview](flexible bollard.stp)
 
 
 ## Files included
 
-- [flexible bollard.png](flexible bollard.png)
+- [flexible bollard.png](flexible bollard.stp)
 - [flexible bollard.stp](flexible bollard.stp)
 
 ---

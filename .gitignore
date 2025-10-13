@@ -42,3 +42,6 @@ desktop.ini
 
 # Large files moved by pre-commit hook
 large_files/
+
+# Ignore per-folder broken link reports generated locally
+**/README.broken_links.md
