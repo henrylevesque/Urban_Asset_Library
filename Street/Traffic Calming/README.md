@@ -1,6 +1,15 @@
-﻿# Traffic Calming
+# Traffic Calming
+
+Files and assets in the `Traffic Calming` folder.
+
+
 
 ## Files included
 
-- (No files in this folder) 
+- Speed Humps/
 
+---
+
+Notes
+
+- For detailed asset documentation, see `docs/ASSET_DOCS_README.md` or `docs/README.md`.

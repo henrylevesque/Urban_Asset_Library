@@ -1,16 +1,18 @@
-Security assets (camera masts and security cameras)
+# Security
 
-Files moved from `Unsorted`:
-- scale portable camera mast 1.fbx
-- scale portable camera mast 1.png
-- scale portable camera mast 1.stl
-- scale portable camera mast 1.stp
-- scale portable camera mast extended shrinkwrapped.stl
-- scale portable camera mast extended shrinkwrapped.stlbak
-- scale portable camera mast.fbx
-- scale portable camera mast.png
-- scale portable camera mast.stl
-- scale portable camera mast.stp
-- Scale security camera with wall mount.png
-- Scale security camera with wall mount.stl
-- Scale security camera with wall mount.stp
+Files and assets in the `Security` folder.
+
+![preview](Scale security camera with wall mount.png)
+
+
+## Files included
+
+- [Scale security camera with wall mount.png](Scale security camera with wall mount.png)
+- [Scale security camera with wall mount.stl](Scale security camera with wall mount.stl)
+- [Scale security camera with wall mount.stp](Scale security camera with wall mount.stp)
+
+---
+
+Notes
+
+- For detailed asset documentation, see `docs/ASSET_DOCS_README.md` or `docs/README.md`.

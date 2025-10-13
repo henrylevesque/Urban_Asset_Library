@@ -1,14 +1,25 @@
-Pavers
+# Pavers
 
-This folder contains paver assets moved from `Unsorted`.
+Files and assets in the `Pavers` folder.
 
-Files:
-- trihex paver.stp
-- trihex pavers.stp
-- aqua trihex paver.stp
-- aqua trihex paver 1.png
-- aqua trihex paver 2.png
-- aqua trihex paver.png
-- scale trihex paver 1.png
-- scale trihex paver 2.png
-- scale trihex paver.png
+![preview](aqua trihex paver 1.png)
+
+
+## Files included
+
+- [aqua trihex paver 1.png](aqua trihex paver 1.png)
+- [aqua trihex paver 2.png](aqua trihex paver 2.png)
+- [aqua trihex paver.png](aqua trihex paver.png)
+- [aqua trihex paver.stp](aqua trihex paver.stp)
+- [aqua trihex pavers.stp](aqua trihex pavers.stp)
+- [scale trihex paver 1.png](scale trihex paver 1.png)
+- [scale trihex paver 2.png](scale trihex paver 2.png)
+- [scale trihex paver.png](scale trihex paver.png)
+- [trihex paver.stp](trihex paver.stp)
+- [trihex pavers.stp](trihex pavers.stp)
+
+---
+
+Notes
+
+- For detailed asset documentation, see `docs/ASSET_DOCS_README.md` or `docs/README.md`.
