@@ -1,135 +1,69 @@
 # Table of Contents
 
-## Included Assets
+## Top-level files
+- [README.md](README.md)
+- [LICENSE](LICENSE)
+- [CITATION.cff](CITATION.cff)
 
-### [MISC](MISC/)
-- [Dumpster](MISC/Dumpster/)
-  - [20 Yard Dumpster](MISC/Dumpster/20%20Yard%20Dumpster/)
-  - [30 Yard Dumpster](MISC/Dumpster/30%20Yard%20Dumpster/)
-- [Barriers](MISC/Barriers/)
-  - [Plastic Safety Fence](MISC/Barriers/Plastic%20Safety%20Fence/)
-  - [Concrete Barrier](MISC/Barriers/Concrete%20Barrier/)
+## Included asset groups (folders)
 
-### [Street](Street/)
-- [Curb](Street/Curb/)
-  - [Combined Concrete Curb and Gutter](Street/Curb/)
-  - [Concrete Roll Curb and Gutter](Street/Curb//Concrete%20Roll%20Curb%20and%20Gutter/)
-  - [Integral Concrete Curb and Gutter](Street/Curb/Integral%20Concrete%20Curb%20and%20Gutter/)
-- [Road](Street/Road/)
-  - [Single Lane Road](Street/Road/Single%20Lane%20Road/)
-  - [Double Lane Road](Street/Road/Double%20Lane%20Road/)
-- [Pole](Street/Pole/)
-  - [Utility Pole](Street/Pole/Utility%20Pole/)
-- [Sidewalk](Street/Sidewalk/)
-  - [Simple Sidewalk](Street/Sidewalk/Simple%20Sidewalk/)
-  - [Textured Sidewalk](Street/Sidewalk/Textured%20Sidewalk/)
-  - [Simple Textured Sidewalk](Street/Sidewalk/Simple%20Textured%20Sidewalk/)
-  - [Tactile Pavers](Street/Sidewalk/Tactile%20Pavers/)
-  - [Tactile Warning Surface](Street/Sidewalk/Tactile%20Warning%20Surface/)
-- [Drainage](Street/Drainage/)
-  - [Storm Drain](Street/Storm%20Drain/)
-- [Bollard](Street/Bollard/)
-  - [Decorative Bollard](Street/Bollard/Decorative%20Bollard/)
-  - [Plain Bollard](Street/Bollard/Plain%20Bollard/)
-  - [Bike Bollard](Street/Bollard/Bike%20Bollard/)
-  - [Bollard with Light](Street/Bollard/Bollard%20with%20Light/)
-- [Lane Markings](Street/Lane%20Markings/)
-  - [Bike Lane](Bike%20Lane)
+### MISC/
+- [Barriers/](MISC/Barriers/)
+  - [Concrete Barrier/](MISC/Barriers/Concrete%20Barrier/)
+  - [Plastic Safety Fence/](MISC/Barriers/Plastic%20Safety%20Fence/)
+- [Dumpster/](MISC/Dumpster/)
+  - [20 Yard Dumpster/](MISC/Dumpster/20%20Yard%20Dumpster/)
+  - [30 Yard Dumpster/](MISC/Dumpster/30%20Yard%20Dumpster/)
+- [Security/](MISC/Security/)
 
-- [Parklet](Street/Parklet/)
-  - [Temporary Parklet with Tables](Street/Parklet/Temporary%20Parklet%20with%20Tables/)
-  - [Metal Parklet](Street/Parklet/Metal%20Parklet/)
-- [Furniture](Street/Furniture/)
-  - [Planters](Street/Furniture/Planters/)
+### Street/
+- [Assets/](Street/Assets/)
+- [Bollard/](Street/Bollard/)
+  - [Bike Bollard/](Street/Bollard/Bike%20Bollard/)
+  - [Bollard with Light/](Street/Bollard/Bollard%20with%20Light/)
+  - [Decorative Bollard/](Street/Bollard/Decorative%20Bollard/)
+  - [Flexible Bollard/](Street/Bollard/Flexible%20Bollard/)
+  - [Plain Bollard/](Street/Bollard/Plain%20Bollard/)
+- [Curb/](Street/Curb/)
+  - [Combined Concrete Curb and Gutter/](Street/Curb/Combined%20Concrete%20Curb%20and%20Gutter/)
+  - [Concrete Roll Curb and Gutter/](Street/Curb/Concrete%20Roll%20Curb%20and%20Gutter/)
+  - [Integral Concrete Curb and Gutter/](Street/Curb/Integral%20Concrete%20Curb%20and%20Gutter/)
+- [Furniture/](Street/Furniture/)
+  - [Concrete/](Street/Furniture/Concrete/)
+  - [Planters/](Street/Furniture/Planters/)
+  - [Saw Horse/](Street/Furniture/Saw%20Horse/)
+- [Lane Markings/](Street/Lane%20Markings/)
+  - [Bike Lane/](Street/Lane%20Markings/Bike%20Lane/)
+- [Parklet/](Street/Parklet/)
+  - temporary and metal parklet assets live under this folder
+- [Pavers/](Street/Pavers/)
+- [Pole/](Street/Pole/)
+  - [Decorative Lamp Post/](Street/Pole/Decorative%20Lamp%20Post/)
+  - [Street Light/](Street/Pole/Street%20Light/)
+  - [Utility Pole/](Street/Pole/Utility%20Pole/)
+- [Road/](Street/Road/)
+  - [Single Lane Road/](Street/Road/Single%20Lane%20Road/)
+  - [Double Lane Road/](Street/Road/Double%20Lane%20Road/)
+- [Sidewalk/](Street/Sidewalk/)
+  - [Simple Sidewalk/](Street/Sidewalk/Simple%20Sidewalk/)
+  - [Simple Textured Sidewalk/](Street/Sidewalk/Simple%20Textured%20Sidewalk/)
+  - [Textured Sidewalk/](Street/Sidewalk/Textured%20Sidewalk/)
+  - [Tree Grate/](Street/Sidewalk/Tree%20Grate/)
+  - [Curb Ramp/](Street/Sidewalk/Curb%20Ramp/)
+  - [Tactile Warning Surface/](Street/Sidewalk/Tactile%20Warning%20Surface/)
+- [Storm Drain/](Street/Storm%20Drain/)
+- [Traffic Calming/](Street/Traffic%20Calming/)
+  - [Speed Humps/](Street/Traffic%20Calming/Speed%20Humps/)
 
-- [Traffic Calming](Street/Traffic%20Calming/)
-  - [Speed Humps and Ramps](Street/Traffic%20Calming/Speed%20Humps/)
+### Signage/
+- [Sign Post/](Signage/Sign%20Post/)
+  - [Square Tubular/](Signage/Sign%20Post/Square%20Tubular/)
+- [Warning Sign/](Signage/Warning%20Sign/)
+  - many warning sign models live here (deer crossing, pedestrian crossing, left/right turn, etc.)
+- individual signs in the `Signage/` root include Stop/Yield/Truck Crossing assets and images
 
-### [Signage](Signage/)
-- [Sign Post](Signage/Sign%20Post/)
-  - [Square Sign Post](Signage/Sign%20Post)
-- Stop Sign
-- Yield Sign
-- Fire Station Sign
-- Truck Crossing Sign
-- [Warning Signs](Signage/Warning%20Sign/)
-  - Cattle Crossing
-  - Truck Crossing
-  - Deer Crossing
-  - Pedestrian Crossing
-  - Left Turn Ahead
-  - Right Turn Ahead
-  - Left Reverse Turn Ahead
-  # Table of Contents
-
-  ## Included Assets
-
-  ### [MISC](MISC/)
-  - [Dumpster](MISC/Dumpster/)
-    - [20 Yard Dumpster](MISC/Dumpster/20%20Yard%20Dumpster/)
-    - [30 Yard Dumpster](MISC/Dumpster/30%20Yard%20Dumpster/)
-  - [Barriers](MISC/Barriers/)
-    - [Plastic Safety Fence](MISC/Barriers/Plastic%20Safety%20Fence/)
-    - [Concrete Barrier](MISC/Barriers/Concrete%20Barrier/)
-  - [Security](MISC/Security/)
-
-
-  ### [Street](Street/)
-  - [Curb](Street/Curb/)
-    - [Combined Concrete Curb and Gutter](Street/Curb/)
-    - [Concrete Roll Curb and Gutter](Street/Curb/Concrete%20Roll%20Curb%20and%20Gutter/)
-    - [Integral Concrete Curb and Gutter](Street/Curb/Integral%20Concrete%20Curb%20and%20Gutter/)
-  - [Road](Street/Road/)
-    - [Single Lane Road](Street/Road/Single%20Lane%20Road/)
-    - [Double Lane Road](Street/Road/Double%20Lane%20Road/)
-  - [Pole](Street/Pole/)
-    - [Utility Pole](Street/Pole/Utility%20Pole/)
-  - [Sidewalk](Street/Sidewalk/)
-    - [Simple Sidewalk](Street/Sidewalk/Simple%20Sidewalk/)
-    - [Textured Sidewalk](Street/Sidewalk/Textured%20Sidewalk/)
-    - [Simple Textured Sidewalk](Street/Sidewalk/Simple%20Textured%20Sidewalk/)
-    - [Tactile Warning Surface](Street/Sidewalk/Tactile%20Warning%20Surface/)
-  - [Pavers](Street/Pavers/)
-  - [Drainage](Street/Storm%20Drain/)
-    - [Storm Drain](Street/Storm%20Drain/)
-  - [Bollard](Street/Bollard/)
-    - [Decorative Bollard](Street/Bollard/Decorative%20Bollard/)
-    - [Plain Bollard](Street/Bollard/Plain%20Bollard/)
-    - [Bike Bollard](Street/Bollard/Bike%20Bollard/)
-    - [Bollard with Light](Street/Bollard/Bollard%20with%20Light/)
-  - [Lane Markings](Street/Lane%20Markings/)
-    - [Bike Lane](Street/Lane%20Markings/Bike%20Lane/)
-
-  - [Parklet](Street/Parklet/)
-    - [Temporary Parklet with Tables](Street/Parklet/Temporary%20Parklet%20with%20Tables/)
-    - [Metal Parklet](Street/Parklet/Metal%20Parklet/)
-  - [Furniture](Street/Furniture/)
-    - [Planters](Street/Furniture/Planters/)
-
-  - [Traffic Calming](Street/Traffic%20Calming/)
-    - [Speed Humps and Ramps](Street/Traffic%20Calming/Speed%20Humps/)
-
-  ### [Signage](Signage/)
-  - [Sign Post](Signage/Sign%20Post/)
-    - [Square Sign Post](Signage/Sign%20Post)
-  - Stop Sign
-  - Yield Sign
-  - Fire Station Sign
-  - Truck Crossing Sign
-  - [Warning Signs](Signage/Warning%20Sign/)
-    - Cattle Crossing
-    - Truck Crossing
-    - Deer Crossing
-    +  - Pedestrian Crossing
-    - Left Turn Ahead
-    - Right Turn Ahead
-    - Left Reverse Turn Ahead
-    - Right Reverse Turn Ahead
-    - Left Curve Ahead
-    - Right Curve Ahead
-
-  ### [Transit](Transit/)
-  - [Bus Stop](Transit/Bus%20Stop/)
+### Transit/
+- [Bus Stop/](Transit/Bus%20Stop/)
 
   ## Future Assets
 
