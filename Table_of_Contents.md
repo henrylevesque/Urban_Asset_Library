@@ -37,10 +37,13 @@
 - [Parklet/](Street/Parklet/)
   - temporary and metal parklet assets live under this folder
 - [Pavers/](Street/Pavers/)
+- [Cross Walk/](Street/Cross%20Walk/)
 - [Pole/](Street/Pole/)
   - [Decorative Lamp Post/](Street/Pole/Decorative%20Lamp%20Post/)
   - [Street Light/](Street/Pole/Street%20Light/)
   - [Utility Pole/](Street/Pole/Utility%20Pole/)
+- [Utilities/](Street/Utilities/)
+  - [Fire Hydrant/](Street/Utilities/Fire%20Hydrant/)
 - [Road/](Street/Road/)
   - [Single Lane Road/](Street/Road/Single%20Lane%20Road/)
   - [Double Lane Road/](Street/Road/Double%20Lane%20Road/)
