@@ -71,16 +71,11 @@
   ## Future Assets
 
   ### Street
-  - Pedestrian Crossings 
-      - Zebra Crossings
-      - Tactile Pavers
   - Lane Markings
       - Lane Dividing Markings
       - Bus Lane Markings
   - Sidewalks
       - Brick Sidewalks
-      - Curb Ramp
-      - Curb Ramp with Tactile Warning Strip (truncated domes or detectable dome warning tiles)
   - Manholes
       - Manhole Covers
   - Drainage
@@ -89,11 +84,7 @@
       - Speed Bumps
       - Speed Cushions
       - Roundabouts
-  - Bollards
-      - Bike Lane Bollards
-  - Fire Hydrant
   - Street Lights
-  - Modern Lampost
   - Traffic Signals
       - Vehicular Signals
       - Pedestrian Signals
@@ -104,10 +95,6 @@
   - Planters
       - Sidewalk Planters
       - Median Planters
-  - Street Furniture
-      - Benches
-      - Chairs
-      - Tables
   - Mailboxes
       - Single Mailboxes
       - Cluster Mailboxes
